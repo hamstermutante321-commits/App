@@ -31,7 +31,7 @@ jobs:
       - name: Test filtering and navigation
         run: sh tool/test.sh
       - name: Build and lint Android
-        run: sh gradlew :app:assembleDebug :app:lintDebug --console=plain
+        run: bash gradlew :app:assembleDebug :app:lintDebug --console=plain
       - name: Upload test APK and lint report
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:

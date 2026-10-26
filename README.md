@@ -47,7 +47,7 @@ En Windows:
 En macOS o Linux:
 
 ```sh
-sh gradlew :app:assembleDebug :app:lintDebug
+bash gradlew :app:assembleDebug :app:lintDebug
 sh tool/test.sh
 ```
 
