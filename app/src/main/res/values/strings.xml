@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClaroTube</string>
+    <string name="page_default">YouTube en ClaroTube</string>
+    <string name="open_settings">Abrir ajustes y ayuda</string>
+    <string name="protection_status_unknown">Estado de protección</string>
+    <string name="protection_on">Protección activa</string>
+    <string name="protection_off">Protección desactivada</string>
+    <string name="blocked_count_unknown">Peticiones bloqueadas: —</string>
+    <string name="protection_scope">Solo aplica dentro de ClaroTube</string>
+    <string name="enable_protection">Activar protección</string>
+    <string name="disable_protection">Desactivar protección</string>
+    <string name="search_hint">Buscar o pegar un enlace</string>
+    <string name="go">Ir</string>
+    <string name="go_to_search">Abrir búsqueda o enlace</string>
+    <string name="home">Inicio</string>
+    <string name="go_home">Ir a inicio</string>
+    <string name="back">Atrás</string>
+    <string name="go_back">Volver a la página anterior</string>
+    <string name="reload">Recargar</string>
+    <string name="reload_page">Recargar página</string>
+    <string name="protection">Protección</string>
+    <string name="protection_active_short">Activa</string>
+    <string name="protection_off_short">Apagada</string>
+    <string name="error_title">No se pudo abrir la página</string>
+    <string name="error_default">Revisa tu conexión e inténtalo de nuevo.</string>
+    <string name="retry">Reintentar</string>
+    <plurals name="blocked_requests">
+        <item quantity="one">%1$d petición bloqueada</item>
+        <item quantity="other">%1$d peticiones bloqueadas</item>
+    </plurals>
+</resources>
